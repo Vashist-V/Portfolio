@@ -36,7 +36,7 @@ Reset some default styles
   .nav-links {
     list-style: none;
     display: flex;
-    margin-left: 27%;
+    margin-left: 23%;
     margin-top: 0%;
     /* border-style: solid; */
   }
